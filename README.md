@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rithesh N D
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Engineering
+- 🌱 I’m currently studying Engineering
 
 
 <!---
